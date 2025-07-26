@@ -1,6 +1,5 @@
-# PoE_Small Repository
+# Personality Matters: Task-Specific Effects of Psychological Framings in Agentified LLMs
 
-This repository contains the code and experimental results for the paper **"PoE_Small"**.
 
 ## Repository Structure
 
